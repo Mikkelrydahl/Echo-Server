@@ -1,0 +1,14 @@
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\45269\source\repos\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.AssemblyReference.cache
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\45269\source\repos\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
